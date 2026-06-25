@@ -2,4 +2,4 @@
 
 test pr
 
-new feature1 changed again
+a new change has been made
